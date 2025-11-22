@@ -1,0 +1,10 @@
+{
+    "description": {
+        "translate": "微信号角"
+    },
+    "sound_event": {
+        "sound_id": "moonhorn:wx_sound"
+    },
+    "range": 128,
+    "use_duration": 14
+}

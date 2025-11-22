@@ -1,0 +1,10 @@
+{
+    "description": {
+        "translate": "号角自定义音效6"
+    },
+    "sound_event": {
+        "sound_id": "moonhorn:custom6"
+    },
+    "range": 128,
+    "use_duration": 14
+}

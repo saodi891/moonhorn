@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "baa",
+    "baa",
+    "ba "
+  ],
+  "key": {
+    "a": [
+      "minecraft:dirt"
+    ],
+    "b": [
+      "minecraft:cobblestone"
+    ]
+  },
+  "result": {
+    "id": "minecraft:goat_horn",
+    "components": {
+      "minecraft:instrument":"moonhorn:custom11_horn"
+    }
+  }
+}

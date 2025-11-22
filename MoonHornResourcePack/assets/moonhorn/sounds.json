@@ -1,0 +1,80 @@
+{
+  "qq_sound": {
+    "sounds": [
+      "moonhorn:origin/qq_sound"
+    ],
+    "subtitle": "subtitles.item.goat_horn.sound"
+  },
+  "wx_sound": {
+    "sounds": [
+      "moonhorn:origin/wx_sound"
+    ],
+    "subtitle": "subtitles.item.goat_horn.sound"
+  },
+  "custom1": {
+    "sounds": [
+      "moonhorn:custom/custom1"
+    ],
+    "subtitle": "subtitles.item.goat_horn.sound"
+  },
+  "custom2": {
+    "sounds": [
+      "moonhorn:custom/custom2"
+    ],
+    "subtitle": "subtitles.item.goat_horn.sound"
+  },
+  "custom3": {
+    "sounds": [
+      "moonhorn:custom/custom3"
+    ],
+    "subtitle": "subtitles.item.goat_horn.sound"
+  },
+  "custom4": {
+    "sounds": [
+      "moonhorn:custom/custom4"
+    ],
+    "subtitle": "subtitles.item.goat_horn.sound"
+  },
+  "custom5": {
+    "sounds": [
+      "moonhorn:custom/custom5"
+    ],
+    "subtitle": "subtitles.item.goat_horn.sound"
+  },
+  "custom6": {
+    "sounds": [
+      "moonhorn:custom/custom6"
+    ],
+    "subtitle": "subtitles.item.goat_horn.sound"
+  },
+  "custom7": {
+    "sounds": [
+      "moonhorn:custom/custom7"
+    ],
+    "subtitle": "subtitles.item.goat_horn.sound"
+  },
+  "custom8": {
+    "sounds": [
+      "moonhorn:custom/custom8"
+    ],
+    "subtitle": "subtitles.item.goat_horn.sound"
+  },
+  "custom9": {
+    "sounds": [
+      "moonhorn:custom/custom9"
+    ],
+    "subtitle": "subtitles.item.goat_horn.sound"
+  },
+  "custom10": {
+    "sounds": [
+      "moonhorn:custom/custom10"
+    ],
+    "subtitle": "subtitles.item.goat_horn.sound"
+  },
+  "custom11": {
+    "sounds": [
+      "moonhorn:custom/custom11"
+    ],
+    "subtitle": "subtitles.item.goat_horn.sound"
+  }
+}

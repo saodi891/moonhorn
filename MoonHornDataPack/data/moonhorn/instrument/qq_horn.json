@@ -1,0 +1,10 @@
+{
+    "description": {
+        "translate": "QQ号角"
+    },
+    "sound_event": {
+        "sound_id": "moonhorn:qq_sound"
+    },
+    "range": 128,
+    "use_duration": 14
+}

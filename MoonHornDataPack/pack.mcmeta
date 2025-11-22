@@ -1,0 +1,9 @@
+{
+	"pack": {
+		"min_format": 71,
+		"max_format": [ 88, 0 ],
+		"pack_format": 81,
+		"supported_formats": [ 71, 81 ],
+		"description": "Moon的号角资源包配套数据包"
+	}
+}
